@@ -177,24 +177,34 @@ position: relative;
         position: absolute;
         top: 40px;
         right: 193px;
+        z-index: 700;
     }
     .phone{
         position: absolute;
      top: 130px;
      right: 670px;
+     z-index: 7200;
     }
+
+    .parent{
+        position: relative;
+        z-index: 666;
+
+    }
+
 
     .sun{
         position: absolute;
         right: 577px;
         top: -90px;
+        z-index: 333;
     }
 
     .green{
         position: absolute;
         right: 0;
         top: 290px;
-        left: 540px;
+        left: 590px;
     }
 
 
@@ -238,4 +248,179 @@ position: relative;
         background-color: rgb(142, 230, 201);
     }
 
+
+    .p_16{
+        color: rgb(2, 18, 6);
+font-size: 16px;
+font-weight: 400;
+line-height: 160%;
+letter-spacing: 0%;
+align-items: center;
+
+    }
+
+    .p_21px{
+align-items: center;
+
+    }
+    .left_2{
+        width: 50%;
+        display: flex;
+gap: 30px;
+column-gap: 30px;
+    }
+
+    .first_r{
+        width: 282px;
+    }
+
+    .second_r{
+        width: 282px;
+
+    }
+
+
+    .rec_red{
     
+        border-radius: 10px;
+padding: 30px 24px;
+box-shadow: 0px 15px 65px 0px rgba(65, 77, 68, 0.15);
+background: rgb(255, 255, 255);
+    }
+
+   
+
+    .rec_green{
+        border-radius: 10px;
+padding: 30px 24px;
+box-shadow: 0px 15px 65px 0px rgba(65, 77, 68, 0.15);
+background: rgb(255, 255, 255);
+margin-top: 30px;
+
+    }
+
+    .rec_yellow{
+        border-radius: 10px;
+padding: 30px 24px;
+box-shadow: 0px 15px 65px 0px rgba(65, 77, 68, 0.15);
+background: rgb(255, 255, 255);
+    }
+
+    .rec_pink{
+        border-radius: 10px;
+        padding: 30px 24px;
+        box-shadow: 0px 15px 65px 0px rgba(65, 77, 68, 0.15);
+        background: rgb(255, 255, 255);
+margin-top: 30px;
+
+    }
+
+    .settings{
+        margin-left: 157px;
+    }
+
+    .fs_45px{
+        color: rgb(2, 18, 6);
+font-size: 45px;
+font-weight: 600;
+line-height: 68px;
+letter-spacing: 0%;
+    }
+
+    .fs_18px{
+        color: rgb(2, 18, 6);
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0%;
+    }
+
+    .settings{
+        display: flex;
+        gap: 74px;
+        margin-top: 110px;
+    }
+    
+    .right_2{
+width: 548px;
+padding-top: 103px;
+    }
+
+
+    .pt{
+        padding-top: 18px;
+    }
+
+    .right_2> .second{
+        padding-top: 18px;
+
+    }
+
+    .bt{
+        margin-top: 29px;
+        border-radius: 6px;
+padding: 15px 40px;
+background: rgb(40, 35, 35);
+color: rgb(255, 255, 255);
+    }
+
+    .eff{
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .complete{
+        padding-top: 20px;
+       
+    }
+
+    .software{
+        padding-top: 18px;
+    }
+
+    .dimensions{
+        color: rgb(2, 18, 6);
+font-size: 18px;
+font-weight: 500;
+line-height: 160%;
+letter-spacing: 0%;
+color: rgb(2, 18, 6);
+width: 448px;
+padding-top: 20px;
+    }
+
+    .left_3{
+        width: 524px;
+    }
+
+.chart{
+    display: flex;
+    margin-top: 110px;
+    padding-left: 227px;
+    padding-right: 170px;
+    gap: 216px;
+}
+
+.right_3{
+    padding-top: 0;
+}
+
+.info{
+    display: flex;
+    margin-top: 210px;
+width: 500px;
+gap: 94px;
+}
+
+.services{
+    width: 499px;
+}
+
+.source{
+        padding-top: 20px;
+        padding-bottom: 20px;
+}
+
+.gr_132{
+    width: 590px;
+}
