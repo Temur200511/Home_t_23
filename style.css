@@ -246,6 +246,7 @@ position: relative;
 
     .background_2{
         background-color: rgb(142, 230, 201);
+        
     }
 
 
@@ -417,10 +418,246 @@ gap: 94px;
 }
 
 .source{
-        padding-top: 20px;
-        padding-bottom: 20px;
+        padding-top: 25px;
 }
 
 .gr_132{
     width: 590px;
+}
+
+    .fs_18px{
+        color: rgb(2, 18, 6);
+font-size: 18px;
+font-weight: 400;
+line-height: 160%;
+letter-spacing: 0%;
+    }
+
+    .power{
+        width: 480px;
+    }
+
+    .qorld{
+        padding-top: 23px;
+        width: 480px;
+        
+    }
+
+    .laptop{
+        padding-top: 90px;
+        position: relative;
+        padding-left: 228px;
+    }
+
+    .notebook{
+        position: absolute;
+        left: 663px;
+        right: 0;
+        bottom: 0px;
+    }
+
+    .download{
+        padding: 15px 33px;
+        color: rgb(255, 255, 255);
+font-size: 20px;
+font-weight: 500;
+line-height: 160%;
+letter-spacing: 0%;
+text-align: left;
+background-color: rgb(244, 69, 69);
+margin-bottom: 91px;
+margin-top: 30px;
+    }
+
+
+    .download:hover{
+        cursor: pointer;
+        color: blue;
+        background-color: yellowgreen;
+    }
+
+    .p_20px{
+        color: rgb(78, 89, 81);
+        font-family: Poppins;
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 80%;
+        letter-spacing: 0%;
+        align-items: center;
+    }
+
+    .plan{
+        padding-top: 110px;
+    }
+
+    .gen{
+        padding-top: 25px;
+width: 754px;
+margin: auto;
+    }
+    .discount{
+        text-align: center;
+    }
+
+    .rec_white{
+        padding-top: 35px;
+       padding-left: 15px;
+       padding-right: 15px  ;
+    }
+
+    .dollar{
+        padding: 10px 20px;
+        color: rgb(255, 255, 255);
+font-size: 17px;
+font-weight: 500;
+line-height: 80%;
+letter-spacing: 0%;
+background-color: rgb(40, 35, 35);
+text-align: center;
+margin: auto;
+    }
+
+
+    .save{
+    padding-top: 34px;
+    color: rgb(2, 18, 6);
+    }
+   
+
+
+.parent_whit{
+    padding-top: 10px;
+    position: relative;
+    padding-left: 200px;
+}
+
+.whit{
+    padding-left: 0;
+    position: absolute;
+    left: 910px;
+    
+}
+
+.basic_plan{
+    border: 1px solid rgba(0, 0, 0, 0.1);
+border-radius: 15px;
+background: rgb(255, 255, 255);
+width: 360px;
+}
+
+.p_16px{
+    color: rgb(2, 18, 6);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 160%;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.star{
+    display: flex;
+    align-items: center;
+text-align: center;
+    padding-left: 30px;
+}
+
+.ok{
+    text-align: center;
+}
+
+.ye{
+    color: rgb(2, 18, 6);
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 160%;
+letter-spacing: 0%;
+padding-left: 77px;
+}
+
+.star> .p_16px{
+    padding-left: 10px;
+
+}
+
+.star{
+    padding-top: 44px;
+}
+
+.p_20px{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.basic_plan{
+    margin-top: 80px;
+}
+
+.three
+{
+    display: flex;
+    gap: 31px;
+}
+
+.two{
+    background-color: rgb(255, 255, 255);
+}
+.thre{
+    background-color: rgb(255, 255, 255);
+}
+
+.buy{
+    color: rgb(244, 69, 69);
+font-family: Poppins;
+font-size: 20px;
+font-weight: 500;
+line-height: 170%;
+letter-spacing: 0%;
+text-align: center;
+padding: 13px 76px;
+margin: 42px 61px;
+white-space: nowrap;
+}
+
+
+.buy{
+    color: rgb(244, 69, 69);
+font-family: Poppins;
+font-size: 20px;
+font-weight: 500;
+line-height: 170%;
+letter-spacing: 0%;
+text-align: center;
+padding: 13px 76px;
+margin: 42px 61px;
+white-space: nowrap;
+}
+
+
+.buy{
+    color: rgb(244, 69, 69);
+font-family: Poppins;
+font-size: 20px;
+font-weight: 500;
+line-height: 170%;
+letter-spacing: 0%;
+text-align: center;
+padding: 13px 76px;
+margin: 42px 61px;
+white-space: nowrap;
+}
+
+.background_4{
+    background-color: rgb(142, 230, 201);
+}
+
+.lastr{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.sof{
+    padding-top: 20px;
+
 }
